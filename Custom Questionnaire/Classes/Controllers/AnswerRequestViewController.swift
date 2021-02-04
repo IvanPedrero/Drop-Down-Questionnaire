@@ -15,6 +15,7 @@ class AnswerRequestViewController: UIViewController {
     private var rawAnswerString = String()
     private var formattedAnswerString = String()
     
+    // MARK: - Initialization
     
     override func viewDidLoad() {
         super.viewDidLoad()
