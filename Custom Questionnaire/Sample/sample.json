@@ -1,0 +1,30 @@
+{
+    "questions": [
+        {
+            "type": "short",
+            "title": "Write a short answer..."
+	    },
+        {
+            "type": "paragraph",
+            "title": "Write a paragraph answer..."
+	    },
+        {
+            "type": "photo",
+            "title": "Submit a photo..."
+	    },
+        {
+            "type": "signature",
+            "title": "Draw your signature..."
+	    },
+        {
+            "type": "single_option",
+            "title": "Choose an option...",
+            "available_options": ["Option 1", "Option 2", "Option 3", "Option 4"]
+	    },
+        {
+            "type": "multiple_option",
+            "title": "Choose multiple options...",
+            "available_options": ["Option 1", "Option 2", "Option 3", "Option 4"]
+	    }
+    ]
+}
