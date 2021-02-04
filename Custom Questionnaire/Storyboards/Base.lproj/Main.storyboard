@@ -126,7 +126,7 @@
                                     <action selector="onSwitchValueChanged:" destination="m4Q-yK-Zdz" eventType="valueChanged" id="Zyd-Nt-Mcb"/>
                                 </connections>
                             </switch>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Formatted resquest" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JLJ-C1-h0g">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Formatted request" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JLJ-C1-h0g">
                                 <rect key="frame" x="20" y="96" width="317" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="21" id="wXR-jf-030"/>
