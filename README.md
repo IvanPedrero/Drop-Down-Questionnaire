@@ -70,28 +70,24 @@ The question types implemented are:
 <div>
   <img src="images/ss2.png" alt="img 2" width="30%" />
 </div>
-<hr/>
 
 * Paragraph: For questions that need long answers.
 
 <div>
   <img src="images/ss3.png" alt="img 3" width="30%" />
 </div>
-<hr/>
 
 * Photo: For questions that need an image from the gallery or camera.
 
 <div>
   <img src="images/ss4.png" alt="img 4" width="30%" />
 </div>
-<hr/>
 
 * Signature: For questions that need a signature.
 
 <div>
   <img src="images/ss5.png" alt="img 5" width="30%" />
 </div>
-<hr/>
 
 * Single or multiple option: For questions that need a selection of provided answers (can be single or multiple).
 
@@ -99,12 +95,11 @@ The question types implemented are:
   <img src="images/ss6.png" alt="img 6" width="30%" />
   <img src="images/ss7.png" alt="img 7" width="30%" />
 </div>
-<hr/>
 
 The information is read from a dummy JSON file that contains the question information, simulating an API request that provides said questionnaire.
 
 <div>
-  <img src="images/ss10.png" alt="img 10" width="30%" />
+  <img src="images/ss10.png" alt="img 10" width="90%" />
 </div>
 
 When submitting the questionnaire, the algorithm will create a JSON object with the saved information gathered from the 
