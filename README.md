@@ -20,7 +20,6 @@
     <br />
     Drop-down questionnaire made in Swift. It implements a UITableView with expandable cells on selection.
     <br />
-    <a href="https://github.com/IvanPedrero/Drop-Down-Questionnaire">View Demo</a>
   </p>
 </p>
 
